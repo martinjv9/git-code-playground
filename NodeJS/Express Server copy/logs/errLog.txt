@@ -1,0 +1,3 @@
+20250219	15:58:01	20b648f2-73cf-4dbe-823c-f2a38b4abd23	Error: Not allowed by CORS
+20250219	20:39:02	9d7dcdd3-c5af-4923-8f85-04e462d693e3	ReferenceError: Cannot access 'foundUser' before initialization
+20250219	20:39:40	98c822ae-d6b4-4513-bb08-1b1e98a24419	ReferenceError: Cannot access 'foundUser' before initialization

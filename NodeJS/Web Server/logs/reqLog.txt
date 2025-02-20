@@ -1,0 +1,12 @@
+2025-02-18 21:28:53	7d011198-d045-4c53-af01-5400e114cd28	/	GET
+2025-02-18 21:28:53	8f5ffabf-fdc1-44b9-b739-c350d7ba5c1d	/css/style.css	GET
+2025-02-18 21:28:53	6c6cf850-7cac-4dea-8f6f-c9b17a1abb92	/favicon.ico	GET
+2025-02-18 21:30:41	46f9ae4f-aa4b-41b3-8e71-1d344e3c391c	/	GET
+2025-02-18 21:30:41	86508d9d-8d0c-4bf0-bed6-ad64aa572033	/css/style.css	GET
+2025-02-18 21:30:58	5b0c1626-5bfc-4f9b-9d7f-fa7eb5cc5b4d	/new-page.html	GET
+2025-02-18 21:30:58	eca7172c-48fe-4a5d-83be-6fe304008766	/css/style.css	GET
+2025-02-18 21:30:58	17162dbc-8850-4b15-9de3-87128545a8df	/img/img1.jpg	GET
+2025-02-18 21:31:09	f44f4d9f-e453-47b8-b6cb-6fe3990bef44	/new-page.html	GET
+2025-02-18 21:31:22	7fc873a5-12b3-4152-b307-87e012f055af	/new-page.html	GET
+2025-02-18 21:31:22	411da43d-b48b-47af-864e-446312ffff1c	/css/style.css	GET
+2025-02-18 21:31:22	38e58bc1-2805-4cb1-89b2-2c782411c045	/img/img1.jpg	GET
